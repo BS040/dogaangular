@@ -18,9 +18,9 @@ export class ProductsListComponent {
   items:any=[]
   oszlopok=["name","category","description","price"]
   adattomb:any=[]
-  HozzaAdasSzoveg="Hozzáadás"
-  ModositasSzoveg="Módosítás"
-  TorlesSzoveg="Tőrlés"
+  HozzaAdasSzoveg="Hozzáad"
+  ModositasSzoveg="Módosít"
+  TorlesSzoveg="Törlés"
 // A kétnyelvűséghez
   links:any
   dropClose=true
